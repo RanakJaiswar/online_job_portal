@@ -27,4 +27,4 @@ constraints. As admin can also view the Toppers of that exam and can create the
 report card based on the Exam to their Email id registered.
 
 ### SRS DDocumentation:
-[SRS Documentation]()
+[SRS Documentation](https://github.com/RanakJaiswar/online_job_portal/blob/main/documentation/SRS.pdf)
