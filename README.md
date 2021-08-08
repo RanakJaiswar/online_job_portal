@@ -28,3 +28,6 @@ report card based on the Exam to their Email id registered.
 
 ### SRS DDocumentation:
 [SRS Documentation](https://github.com/RanakJaiswar/online_job_portal/blob/main/documentation/SRS.pdf)
+
+### Report
+[Report](https://github.com/RanakJaiswar/online_job_portal/blob/main/documentation/Job_portal_report.pdf)
