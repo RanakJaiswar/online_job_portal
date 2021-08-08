@@ -31,3 +31,6 @@ report card based on the Exam to their Email id registered.
 
 ### Report
 [Report](https://github.com/RanakJaiswar/online_job_portal/blob/main/documentation/Job_portal_report.pdf)
+
+## Screenshots
+![](https://github.com/RanakJaiswar/online_job_portal/blob/main/img/p1.png)
