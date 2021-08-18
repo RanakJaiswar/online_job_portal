@@ -3,7 +3,7 @@
 ## Documentation
 
 ### Problem Statement:
-[Problem Statement](https://github.com/RanakJaiswar/online_job_portal/blob/main/documentation/problem%20starement.pdf)
+[Problem Statement](https://github.com/RanakJaiswar/online_job_portal/blob/main/documentation/PS.pdf)
 
 The employment has been made manual in the past many years upto this current 
 situation where everything has totally changed due to technological changes. The 
